@@ -1,1 +1,1 @@
-Exercices réalisés en impair programming avec Emma Calvez & Charles Dutheil ! 
+Exercices réalisés en impair programming par Emma Calvez, Charles Dutheil & Karel Cloarec ! 
