@@ -17,3 +17,10 @@ end
 def power(first_var, second_var)
 	return first_var ** second_var
 end
+
+def factorial(num)
+	if num = 0 
+		return 1
+	end
+	return num * factorial(num - 1)
+end
